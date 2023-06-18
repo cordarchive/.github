@@ -2,7 +2,7 @@
 ## About
 CordArchive is a Discord archival project archiving web builds.
 
-(If you are looking for the client side of CordArchive, please move forward to [Harmony](https://github.com/harmonyclient))
+(If you are looking for the client side of CordArchive, please move forward to [(New name impending)](https://github.com/harmonyclient))
 
 ## Repositories
 | Repository | Description |
