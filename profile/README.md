@@ -2,7 +2,7 @@
 ## About
 CordArchive is a Discord archival project archiving web builds.
 
-Check out [CordPackers](https://github.com/modulocord)!
+Check out [CordPackers](https://github.com/cordpackers)!
 
 ## Repositories
 | Repository | Description |
